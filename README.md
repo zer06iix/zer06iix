@@ -1,3 +1,4 @@
+[<img src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" align="top"]
 # 💫 About Me:
 Hi I'm a frontend developer and also tryin' to be a fullstack developer.<br><br>I know how to work with design apps too.<br><br>Projects are in progress :>
 
