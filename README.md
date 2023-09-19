@@ -1,4 +1,3 @@
-[<img src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" align="top"]
 # 💫 About Me:
 Hi I'm a frontend developer and also tryin' to be a fullstack developer.<br><br>I know how to work with design apps too.<br><br>Projects are in progress :>
 
@@ -12,5 +11,3 @@ Hi I'm a frontend developer and also tryin' to be a fullstack developer.<br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zer06iix&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
