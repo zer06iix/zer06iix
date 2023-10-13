@@ -11,4 +11,4 @@ Hi I'm a frontend developer and also tryin' to be a fullstack developer.<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zer06iix&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zer06iix&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zer06iix&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
