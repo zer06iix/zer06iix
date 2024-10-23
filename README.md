@@ -1,5 +1,8 @@
-# 💫 About Me:
 <img src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" style="width: 400px;">
+
+# 💫 About Me:
+I have two years of experience in web development. I'm interested in both frontend and backend so I chose **ReactJS** library to learn for my frontend skills and **Django** for my backend skills. I'm going to learn **NextJS** and may also learn **NodeJS** for my backend skills.
+
 
 # 💻 Skills:
 <p align="left">
