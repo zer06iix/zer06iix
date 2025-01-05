@@ -10,7 +10,7 @@ Exploring new technologies and frameworks to create innovative web applications.
 
 ### 📚 Skills:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
+- **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Python, Django
 - **Databases**: MongoDB, SQL
 - **Tools**: Git, GitHub, Docker, RESTful APIs
