@@ -1,7 +1,7 @@
 <img src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" style="width: 1020px;">
 
 # 👋 Hi there! I'm Abolfazl Khaksar
-### 🌐 Frontend & Backend Developer
+### 🌐 Frontend / Backend Developer
 Passionate about crafting seamless user experiences and robust backend solutions.
 
 ### 🚀 Current Focus
